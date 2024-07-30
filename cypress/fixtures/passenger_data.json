@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "12367",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "31/07/2024",
+  "TRAVEL_DATE": "01/08/2024",
   "SOURCE_STATION": "BGP",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "ANVT",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "amitjhaicici@ybl",
   "PASSENGER_DETAILS": [
