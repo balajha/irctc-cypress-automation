@@ -114,7 +114,7 @@ function performLogin(LOGGED_IN) {
 }
 
 
-let MAX_ATTEMPT = 120
+let MAX_ATTEMPT = 1200
 // function to solveCaptcha after logging in
 
 
