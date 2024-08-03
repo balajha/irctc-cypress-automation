@@ -15,7 +15,7 @@ export const tatkalOpenTimings = {
     "CC": "10:00",
     "EC": "10:00",
     "2S": "11:00",
-    "SL": "11:00",
+    "SL": "18:50",
 }
 
 export const hasTatkalAlreadyOpened = (TRAIN_COACH) => {
